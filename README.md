@@ -21,4 +21,9 @@ Bem-vindo ao meu repositório no GitHub.
   - Desenvolvimento web front-end e back-end
   - Análise e manipulação de dados
   - Banco de dados relacionais e não relacionais
+ 
+## Contato
+
+- **LinkedIn**: [Seu LinkedIn](www.linkedin.com/in/raphael-laurentino-45a99a120)
+- **Email**: raphaellaurentino@live.com
 
