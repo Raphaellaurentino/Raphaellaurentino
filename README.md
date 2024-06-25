@@ -27,3 +27,9 @@ Bem-vindo ao meu repositório no GitHub.
 - **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/Raphaellaurentino-br)
 - **Email**: raphaellaurentino@live.com
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Raphaellaurentino&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Raphaellaurentino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
