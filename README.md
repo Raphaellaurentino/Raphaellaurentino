@@ -1,16 +1,24 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Raphael Laurentino and my nickname is Raphaellaurentino!
-<!--
-**Raphaellaurentino/Raphaellaurentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, sou Raphael Laurentino! 👋
 
-Here are some ideas to get you started:
+Bem-vindo ao meu repositório no GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mim
+
+- 🎓 Graduado em Sistemas de Informação
+- 📚 Atualmente cursando uma pós-graduação em Engenharia de Dados
+- 💼 Migrando da área de suporte de sistemas para programação
+
+## Habilidades
+
+- **Linguagens de Programação**:
+  - Python
+  - JavaScript (JS)
+  - HTML & CSS
+  - Java
+  - SQL
+
+- **Ferramentas e Tecnologias**:
+  - Desenvolvimento web front-end e back-end
+  - Análise e manipulação de dados
+  - Banco de dados relacionais e não relacionais
+
