@@ -24,6 +24,6 @@ Bem-vindo ao meu repositório no GitHub.
  
 ## Contato
 
-- **LinkedIn**: [Seu LinkedIn](www.linkedin.com/in/raphael-laurentino-45a99a120)
+- **LinkedIn**: [Meu LinkedIn](www.linkedin.com/in/Raphaellaurentino-br)
 - **Email**: raphaellaurentino@live.com
 
